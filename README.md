@@ -1,4 +1,4 @@
-*# Bank Marketing Machine Learning Classification
+# Bank Marketing Machine Learning Classification
 In this project logist regression, random forest and support vector machine models are compared for predicting whether a customer will subsribe to a financial product in response to a direct marketing campaign.  
 
 # A Comparison of Predictive Intervals for Distribution-Free Regression
